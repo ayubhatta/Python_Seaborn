@@ -17,7 +17,7 @@ import seaborn as sns
 
 # In[4]:
 
-
+# importing numpy, pandas and matplotlib
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
